@@ -1,0 +1,26 @@
+
+
+
+
+#outer {
+	position:absolute;
+	top:96px;
+	width:100%
+}
+
+
+#inner {
+	width: 394px;
+	margin: 0px auto;
+	
+}
+
+
+#square {   }
+
+#nonamelabs {
+	float:right;
+	text-align:right;
+}
+
+
